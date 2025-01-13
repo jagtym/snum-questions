@@ -1,0 +1,8 @@
+QQ100000
+18.	Sploty o kernelach/maskach o rozmiarach 1x1 stosuje się w sieciach neuronowych najczęściej w celu
+	zmniejszenia liczby kanałów w tensorze wyjściowym
+	zmniejszenia liczby kanałów w tensorze wejściowym
+	zwiększenia rozdzielczości obrazu
+	zmniejszenia rozdzielczości obrazu
+	zwiększenia liczby kanałów w tensorze wejściowym
+	zwiększenia liczby kanałów w tensorze wyjściowym

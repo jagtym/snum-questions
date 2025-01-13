@@ -1,0 +1,6 @@
+QQ0010
+26.	Zaletą funkcji aktywacji ReLU jest:
+	ściskanie rezultatu w przedziale [0,1]
+	możliwość wykorzystania algorytmu wstecznej propagacji błędu
+	niezerowa pochodna dla dowolnego argumentu dodatniego
+	łatwość inicjalizacji parametrów

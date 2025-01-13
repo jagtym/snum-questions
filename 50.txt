@@ -1,0 +1,6 @@
+QQ1000
+50.	Czy algorytm k-NN z euklidesową miarą odległości może być użyty bezpośrednio do klasyfikacji danych, gdzie osoby opisane są przez 3 atrybuty liczbowe (rozmiar buta, waga, roczne zarobki) i 1 decyzyjny, wskazujący klasę? Wybierz jedną odpowiedź:
+	nie, należy dokonać normalizacji zakresu atrybutów
+	tak, jest to typowy problem
+	nie, gdyż liczba atrybutów jest zbyt mała
+	nie, gdyż należy użyć odległości miejskiej

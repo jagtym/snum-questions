@@ -1,0 +1,6 @@
+QQ0101
+42.	Które ze zdań jest prawdziwe w stosunku do algorytmu k-średnich
+	Wykorzystuje rzeczywiste obserwacje (tzw. medoidy) do reprezentacji skupienia
+	Iteracyjnie próbuje minimalizować miarę zmienności wewnątrz-skupieniowej
+	Sam algorytm ustala liczbę skupień
+	Przy wykorzystaniu odległości euklidesowej ma ukierunkowanie do tworzenia kulistych kształtów skupisk

@@ -1,0 +1,7 @@
+QQ00100
+35.	Funkcja straty typowo wykorzystywana w zadaniach klasyfikacji to
+	błąd średniokwadratowy
+	średni błąd absolutny
+	entropia krzyżowa
+	strata zerojedynkowa
+	trafność klasyfikacji

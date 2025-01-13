@@ -1,0 +1,8 @@
+QQ100000
+21.	Pole receptorowe pojedynczego unitu w sieci neuronowej składającej się z 3 warstw splotowych o wielkościach kerneli/masek odpowiednio 3x3, 5x5 i 1x1, przy stride/kroku równym 1 i bez warstw typu pooling pomiędzy nimi, ma wymiary
+	7x7
+	9x9
+	6x6
+	3x3
+	1x1
+	8x8

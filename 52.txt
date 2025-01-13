@@ -1,0 +1,5 @@
+QQ010
+52.	Eksperymentalnego doboru wartości k w algorytmie k-NN NIE można wykonać wykorzystując:
+	kroswalidację
+	zbiór testowy
+	zbiór walidacyjny

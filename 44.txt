@@ -1,0 +1,6 @@
+QQ0001
+44.	Warunkiem zatrzymania algorytmu k-średnich jest: Wybierz jedną odpowiedź:
+	zakończenie dyskretyzacji atrybutów liczbowych
+	utworzenie pełnego drzewa skupień
+	optymalizacja wartości k - tzn. jest obliczenie
+	Osiągnięcie stabilizacji zawartości przykładów wewnątrz skupień

@@ -1,0 +1,6 @@
+QQ0100
+30.	Przyrost informacji (ang. info gain) jest zdefiniowany jako (A --- zbiór przykładów uczących, s --- atrybut użyty do podziału w węźle drzewa; Ent symbol obliczenia entropii informacji):
+	Gain(A,s)=Ent(s)-Ent(A|s);
+	Gain(A,s)=Ent(A)-Ent(A|s)
+	Gain(A,s)=Ent(A|s)-Ent(A)
+	Gain(A,s)=Ent(s)-Ent(s|A)

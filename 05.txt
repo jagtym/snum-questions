@@ -1,0 +1,7 @@
+QQ01010
+5.	Autoenkoder wariacyjny różni się od zwykłego następującymi cechami
+	liczbą wejść dekodera
+	randomizacją sygnału przekazywanego z enkodera do dekodera
+	sposobem obliczania błędu rekonstrukcji
+	funkcją straty
+	sposobem prezentowania przykładów wejściowych

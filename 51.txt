@@ -1,0 +1,7 @@
+QQ10000
+51.	Reguła delta dla unitu nieliniowego o wektorze parametrów w, funkcji aktywacji f, aktywacji e, który w odpowiedzi na wektor wejść x popełnił błąd delta, ma następującą postać. Wybierz jedną odpowiedź:
+	w <- w - eta delta x df/de
+	w <- w + eta delta f(e) df/de
+	w <- w + eta delta x df/de
+	w <- w - eta f(x) ddelta/de
+	w <- w - eta delta x

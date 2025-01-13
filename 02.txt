@@ -1,0 +1,6 @@
+QQ1100
+2.	Co jest prawdą dla zespołu T drzew w ramach tzw. systemu bagging:
+	Wypracowuje się decyzję końcową poprzez głosowanie większościowe
+	Stosuje się losowanie bootstrapowe dla każdego z tych drzew
+	Modyfikuje się parametry uczenia każdego drzew dla zwiększenia ich zróżnicowania
+	stosuje się rozłączny podział przykładów w kolejnych zbiorach uczących drzew

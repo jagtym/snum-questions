@@ -1,0 +1,7 @@
+QQ10000
+55.	Bramka zapominająca w standardowej architekturze LSTM sieci rekurencyjnej:
+	jest siecią neuronową z funkcją aktywacji będącą f. sigmoidalną, której celem jest selektywne wybranie elementów, które pozostaną w pamięci
+	jest siecią neuronową z funkcją aktywacji będącą tangensem hiperbolicznym, której celem jest selektywne wybranie elementów, które pozostaną w pamięci
+	jest siecią neuronową z funkcją aktywacji będącą tangensem hiperbolicznym, której celem jest selektywne wybranie elementów, które zostaną dodane do pamięci
+	jest siecią neuronową z funkcją aktywacji będącą f. sigmoidalną, której celem jest selektywne wybranie elementów, które zostaną dodane do pamięci
+	nie jest siecią neuronową, a tylko pewną operacją matematyczną dokonywaną na wejściu sieci rekurencyjnej

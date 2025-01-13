@@ -1,0 +1,7 @@
+QQ10000
+33.	Główną przeszkodą w uczeniu modeli głębokich jest/było:
+	zjawisko zanikających gradientów
+	ograniczenia dostępnej mocy obliczeniowej (który to problem rozwiązany został przez obliczenia na GPU) X
+	ograniczenia pamięciowe (duża liczba parametrów modelu)
+	problem klątwy wymiarowości (ang. curse of dimensionality)
+	brak formuły definiującej pożądaną wartość wyjścia unitów w warstwach ukrytych

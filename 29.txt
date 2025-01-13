@@ -1,0 +1,6 @@
+QQ1000
+29.	Składanie ze sobą warstw liniowych jest dyskusyjne, ponieważ
+	złożenie operacji liniowych jest operacją liniową
+	większość problemów rzeczywistych jest liniowo separowalna
+	prowadzi do niepotrzebnego wzrostu liczby parametrów modelu
+	większość problemów rzeczywistych nie jest liniowo separowalna

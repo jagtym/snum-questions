@@ -1,0 +1,7 @@
+QQ01000
+34.	Autoenkodery rozwiązujące problem autoasocjacji charakteryzuje to, że
+	rekurencyjnie używają wektora zmiennych ukrytych jako swojego wejścia, by po ilus iteracjach zbiec do finalnego rozwiązania
+	oryginalne dane są najpierw reprezentowane jako pewien wektor cech, a następnie są na jego podstawie rekonstruowane
+	oryginalne przypadki uczące zostają zapamiętane w wektorze zmiennych ukrytych, a następnie sieć decyduje, który z nich zostanie zwrócony na wyjście
+	porównują wektor zmiennych ukrytych oryginalnych danych z wektorem uzyskanym po ich przetworzeniu przez sieć
+	do ich uczenia nie można użyć algorytmu wstecznej propagacji błędu

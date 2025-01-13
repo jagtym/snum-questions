@@ -1,0 +1,6 @@
+QQ0100
+46.	Estymacja parametrów w regresji logistycznych jest dokonywana poprzez:
+	analityczne rozwiązanie metody najmniejszych kwadratów poprzez
+	metodę estymacji największej wiarygodności
+	algorytm spadku gradientu błędu średniokwadratowego
+	algorytm Larossa

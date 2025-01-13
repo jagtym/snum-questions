@@ -1,0 +1,6 @@
+QQ0010
+22.	Zjawiska nadmiernego dopasowania (ang. overfiting) drzewa do danych uczących można unikać poprzez:
+	uwzględnianie przykładów o niezdefiniowanych wartościach atrybutów
+	transformacje drzewa na zbiór reguł
+	usuwanie niektórych poddrzew i w rezultacie redukcję rozmiarów drzewa
+	użycie zmodyfikowanej miary informacyjnej (ang. pre-misinformation) zamiast entropii

@@ -1,0 +1,6 @@
+QQ1000
+20.	Ile węzłów i liści będzie miało drzewo wyindukowane dla zbioru uczącego, którego wszystkie przykłady należą do jednej klasy?
+	(a) 1
+	(a) 2
+	(a) 0
+	(a) co najmniej 3

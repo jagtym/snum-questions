@@ -1,0 +1,6 @@
+QQ0100
+49.	Selekcje zmiennych w modelu regresji liniowej można dokonać poprzez: Wybierz wszystkie poprawne:
+	Obliczając przedział ufności predykcji
+	Procedure krokowego wyboru kontrolowanego przez obliczenie statystyki F
+	Wykorzystanie wskaźnika Lorentza do oceny każdej zmiennej niezależnej
+	Na podstawie analizy wartości lokalnego testu t w diagnostyce modelu (zbyt wysoka p value)

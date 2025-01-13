@@ -1,0 +1,7 @@
+QQ01000
+11.	Motywacją dla stosowania połączeń rezydualnych jest
+	redukcja liczby parametrów modelu
+	zapewnienie lepszej propagacji gradientu w procesie uczenia
+	istnienie grupy zadań dla których celem nie jest uczenie się odwzorowania y=f(x) dla przykładów o postaci (x_i, f(x_i)), a raczej odwzorowania y=f(x)+x
+	uproszczenie architektury modelu dzięki modularyzacji architektury
+	zapewnienie lepszej propagacji gradientu w procesie odpytywania modelu

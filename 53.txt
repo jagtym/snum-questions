@@ -1,0 +1,6 @@
+QQ0001
+53.	W przypadku uczenia nienadzorowanego (np. grupowanie) do selekcji atrybutów NIE można użyć:
+	usuwania atrybutów skorelowanych
+	usuwania atrybutów z niską wariancją
+	tworzenia nowych atrybutów (np. metodą PCA)
+	usuwania atrybutów z niską wartością information gain

@@ -1,0 +1,6 @@
+QQ0100
+32.	Technikę o nazwaną oceną krzyżową (ang. k fold cross validation) do estymacji miar oceny zdolności predykcyjnych klasyfikatora stosuje się, gdy:
+	liczba przykładów jest większa niż rozmiar tzw. małej statystycznej próby tj. 33 przykłady
+	liczba przykładów uczących jest większa niż 100 a mniejsza niż dziesiątki tysięcy
+	liczba atrybutów jest równa k
+	liczba przykładów jest rzędu wielu tysięcy przykładów

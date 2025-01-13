@@ -1,0 +1,6 @@
+QQ0001
+36.	Ściskające funkcje aktywacji to między innymi
+	leaky ReLU i ReLU
+	funkcja liniowa i tangens hiperboliczny
+	funkcja sigmoidalna i ReLU
+	funkcja sigmoidalna i tangens hiperboliczny

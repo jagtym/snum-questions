@@ -1,0 +1,6 @@
+QQ1001
+56.	Algorytm k-means:
+	wymaga znanej z góry liczby skupisk (grup)
+	ustala ostateczną liczbę grup w toku działania opierając się na ustalonej wartości progu podobieństwa
+	jest algorytmem uczenia nadzorowanego
+	jest algorytmem klasyfikacji

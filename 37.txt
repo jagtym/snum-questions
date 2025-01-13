@@ -1,0 +1,6 @@
+QQ0010
+37.	Uczenie modeli sieci neuronowych typowymi algorytmami wymaga obliczania gradientu
+	hiperparametrów względem parametrów modelu
+	parametrów modelu względem funkcji straty
+	funkcji straty względem parametrów modelu
+	funkcji straty względem wejść modelu

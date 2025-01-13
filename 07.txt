@@ -1,0 +1,6 @@
+QQ1010
+7.	Które ze zdań jest prawdziwe w stosunku do algorytmu k-średnich
+	przy wykorzystaniu odległości euklidesowej ma ukierunkowanie do tworzenia kulistych kształtów skupisk
+	wykorzystuje rzeczywiste obserwacje (tzw. medoidy) do reprezentacji skupienia
+	iteracyjnie próbuje minimalizować miarę zmienności wewnątrz-skupieniowej
+	sam algorytm ustala liczbę skupień

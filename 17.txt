@@ -1,0 +1,7 @@
+QQ01000
+17.	Miara entropii informacji stosowana w indukcyjnym uczeniu się z przykładów w przypadku klasyfikacji binarnej przyjmuje wartości (załóż podstawę 2 w logarytmie):
+	żadna z odpowiedzi nie jest prawdziwa
+	z przedziału [0, 1],
+	dowolne
+	większa od 1,
+	z przedziału [0,2*k], gdzie k jest liczbą klas

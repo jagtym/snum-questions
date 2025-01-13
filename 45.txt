@@ -1,0 +1,6 @@
+QQ1000
+45.	Autodiff to żargonowe określenie na. Wybierz jedną odpowiedź:
+	techniki automatycznego różniczkowania wykorzystywane w uczeniu głębokim
+	funkcję straty wykorzystywaną często w modelach uczonych przez autoasocjację
+	najbardziej popularną klasę algorytmów wstecznej propagacji błędu
+	automatyczne odejmowanie offsetu unitów (bias, parametr oznaczany zazwyczaj przez b) od ich aktywacji

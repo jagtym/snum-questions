@@ -1,0 +1,6 @@
+QQ0010
+25.	Pojęcie "przekleństwo wymiarowości" mówi o:
+	wroście złożoności obliczeniowej wraz ze wzrostem liczby atrbutów
+	żadna z powyższych odpowiedzi nie jest poprawna
+	konieczności wykładniczego wzrostu liczby przykładów uczących przy rosnącej liczbie atrybutów (aby utrzymać jakość klasyfikacji)
+	spadku jakości klasyfikacji za każdym razem po dodaniu kolejnego atrybutu

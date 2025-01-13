@@ -1,0 +1,6 @@
+QQ0001
+1.	Metoda Lasso jest stosowana w modelach uczenia maszynowego do
+	jest rodzajem tzw. regresji grzbietowej
+	jako metoda doboru parametru k podczas selekcji cech
+	do wykonania selekcji zmiennych w problemach klasyfikacyjnych
+	w przypadku regresji jako elemnt regularyzacyjny

@@ -1,0 +1,6 @@
+QQ0010
+47.	Regularyzacja L2 (weight decay) polega na. Wybierz jedną odpowiedź:
+	dodaniu do funkcji straty członu obliczającego odległość euklidesową wektora wyjść modelu od wektora wartości pożądanych (tzw. targetu)
+	odjęcia od funkcji straty członu obliczającego odległość euklidesową wektora parametrów modelu od wektora wyjść
+	dodaniu do funkcji straty członu penalizującego amplitudę parametrów modelu
+	odjęciu od funkcji straty członu penalizującego amplitudę parametrów modelu

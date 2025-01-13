@@ -1,0 +1,7 @@
+QQ00010
+57.	W standardowej architekturze LSTM rekurencyjnej sieci neuronowej:
+	pamięć jest najpierw filtrowana przez operację mnożenia po elementach wektora liczb z przedziału [-1, 1] a potem modyfikowana poprzez operację dodawania wektora z elementami z przedziału [-1,1]
+	pamięć jest najpierw filtrowana przez operację mnożenia po elementach wektora liczb z przedziału [0, 1] a potem modyfikowana poprzez operację dodawania wektora z elementami z przedziału [0,1]
+	pamięć jest najpierw filtrowana przez operację dodawania wektora liczb z przedziału [0, 1] a potem modyfikowana poprzez operację mnożenia po elementach wektora z elementami z przedziału [0,1]
+	pamięć jest najpierw filtrowana przez operację mnożenia po elementach wektora liczb z przedziału [0, 1] a potem modyfikowana poprzez operację dodawania wektora z elementami z przedziału [-1,1]
+	pamięć jest najpierw filtrowana przez operację dodawania wektora liczb z przedziału [-1, 1] a potem modyfikowana poprzez dodawania wektora z elementami z przedziału [0,1]

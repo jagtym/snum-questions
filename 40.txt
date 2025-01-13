@@ -1,0 +1,7 @@
+QQ00010
+40.	Klasyfikowanie nowego obiektu z wykorzystaniem zbioru reguł wygenerowanych algorytmem LEM2 odbywa się na podstawie:
+	strategii list priorytetowej reguł.
+	najdokładniejszej ze zbioru reguł dopasowanych do opisu nowego obiektu
+	żadna z powyższych odpowiedzi nie jest prawdziwa
+	głosowania wsparciami (siłami) wszystkich reguł dopasowanych do opisu nowego obiektu.
+	najsilniejszej z zbioru reguł dopasowanych do opisu nowego obiektu.

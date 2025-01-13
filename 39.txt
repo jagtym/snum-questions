@@ -1,0 +1,7 @@
+QQ01000
+39.	Dropout to technika regularyzacji charakteryzująca się
+	stochastycznym usuwaniem neuronów podczas uczenia i testowania
+	stochastycznym usuwaniem neuronów podczas uczenia, i zmniejszaniem amplitud wyjść neuronów w trakcie testowania
+	stochastycznym usuwaniem neuronów podczas testowania, i zmniejszaniem amplitud wyjść neuronów w trakcie uczenia
+	stochastycznym usuwaniem neuronów podczas uczenia, i zwiększaniem amplitud wyjść neuronów w trakcie testowania
+	stochastycznym usuwaniem neuronów podczas testowania, i zwiększaniem amplitud wyjść neuronów w trakcie uczenia

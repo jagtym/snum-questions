@@ -1,0 +1,6 @@
+QQ1001
+4.	Metodą wiązania w algorytmach aglomeracyjnych może być
+	wiązanie single linkage
+	metoda Barda
+	średnie ważone odległości Lorentza
+	odległości najdalszego sąsiada

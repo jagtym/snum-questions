@@ -1,0 +1,7 @@
+QQ10000
+24.	Ile razy klasyfikowany jest każdy przykład (jako testowy przez klasyfikator) w procedurze oceny krzyżowej (ang. k fold cross validation)?
+	Dokładnie jeden raz.
+	Przynajmniej raz i nie więcej niż n-1, gdzie nto liczba części na jakie jest podzielony zbiór uczący.
+	Jest to zależne od liczby części (ang. podziałów), na jakie został losowo podzielony zbiór uczący?
+	metoda oceny jest techniką wielu losowych podziałów, więc trudno to ustalić
+	n razy, gdzie n jest zdefiniowane jak w punkcie c.

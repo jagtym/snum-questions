@@ -1,0 +1,6 @@
+QQ0001
+43.	Kryterium gain-ratio używa się w indukcji drzew i reguł decyzyjnych w następujących sytuacjach: Wybierz jedną odpowiedź:
+	Jest to zastępcze kryterium podziału dla algorytmu CART
+	Stosowana jest w trakcie dyskretyzacji atrybutów liczbowych
+	Nieprawda - nie jest wykorzystywane w indukcji drzew
+	Pozwala na lepsze uwzględnienie atrybutów o zróżnicowanych dziedzinach

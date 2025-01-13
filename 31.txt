@@ -1,0 +1,7 @@
+QQ10000
+31.	Zbiór walidacyjny wykorzystywany jest w uczeniu sieci neuronowych do:
+	przerywania uczenia w przypadku przeuczenia
+	żadna z pozostałych odpowiedzi nie jest poprawna
+	efektywniejszego liczenia gradientu
+	sprawdzania poprawności implementacji sieci
+	testowania finalnej jakości modelu

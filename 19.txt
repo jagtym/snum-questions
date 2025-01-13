@@ -1,0 +1,8 @@
+QQ000010
+19.	Twierdzenie Cybenki o uniwersalnej aproksymacji dotyczy
+	sieci neuronowej złożonej z 3 warstw i klasy funkcji monotonicznych
+	sieci neuronowej złożonej z 2 warstw i dowolnej klasy funkcji
+	pojedynczego neuronu i klasy funkcji monotonicznych
+	dowolnej sieci neuronowej i dowolnej klasy funkcji
+	sieci neuronowej złożonej z 2 warstw i klasy funkcji monotonicznych
+	sieci neuronowej złożonej z 3 warstw i dowolnej klasy funkcji

@@ -1,0 +1,8 @@
+QQ000010
+10.	Wymiarowość wektora gradientu obliczanego w algorytmie spadku wzdłuż gradientu dla sieci neuronowej n wejściach, m wyjściach, i k parametrach, uczonej skalarną funkcją straty wynosi
+	(a) m
+	(a) m+k
+	(a) m+n
+	(a) n
+	(a) k
+	(a) n+k

@@ -1,0 +1,6 @@
+QQ1000
+13.	Jak modyfikuje się zbiór przykładów uczących w algorytmie boosting
+	modyfikuje się wagi przykładów w zależności od błędów popełnianych w poprzedniej iteracji
+	dla każdego z przykładów losuje się podzbiór atrybutów
+	nie modyfikuje się przykładów, lecz stosuje się różne algorytmy uczące
+	wybiera się losowo przykłady wg. strategii boostrapowych

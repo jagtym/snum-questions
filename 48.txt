@@ -1,0 +1,6 @@
+QQ0010
+48.	Funkcje straty dla typowych modeli neuronowych z dużą liczbą parametrów mają zazwyczaj. Wybierz jedną odpowiedź:
+	więcej lokalnych ekstremów niż punktów siodłowych
+	więcej minimów globalnych niż minimów lokalnych
+	więcej punktów siodłowych niż lokalnych ekstremów
+	więcej minimów lokalnych niż maksimów lokalnych

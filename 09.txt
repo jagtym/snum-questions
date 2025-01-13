@@ -1,0 +1,6 @@
+QQ0001
+9.	Dlaczego nie wykorzystuje się pełnej postaci klasyfikatora bayesowskiego, tylko wersje tzw. naiwnego klasyfikatora bayesowskiego
+	nie potrafimy poprawnie oszacować prawdopodobieństwa a'priori klas
+	jego obliczenie prowadzi do wyższych kosztów czasowych
+	grozi tzw. przeuczeniem
+	gdyż oszacowanie prawdopodobieństw koniunkcji atrybutów warunkowych stwarza zbyt trudne wymagania do ich obecności w zbiorze przykładów uczących - należy zapewnić realizacje wszystkich możliwych kombinacji

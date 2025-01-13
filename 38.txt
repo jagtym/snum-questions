@@ -1,0 +1,8 @@
+QQ100000
+38.	Pojedyncza jednostka splotowa o wielkości jądra 3 na 3 pikseli, zaaplikowana do wejścia o czterech kanałach z krokiem (stride) równym 2 i paddingiem równym 3, ma następującą liczbę parametrów (wag, w tym biasów)
+	(a) 37
+	(a) 9
+	(a) 41
+	(a) 10
+	(a) 40
+	(a) 36

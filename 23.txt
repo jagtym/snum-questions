@@ -1,0 +1,6 @@
+QQ0001
+23.	Wariacyjny autoenkoder różni się od zwykłego tym, że
+	daje gwarancję, że wektory zmiennych ukrytych są unikalne dla wszystkich przypadków w danych
+	nauczone wektory zmiennych ukrytych rozrzucone są równomiernie po całej przestrzeni
+	wariancja wskazań tego autoenkodera dla różnych danych wykorzystywana jest do uczenia sieci
+	uczony jest rozkład prawdopodobieństwa, który wykorzystywany jest do generowania wektora ukrytych zmiennych

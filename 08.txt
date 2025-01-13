@@ -1,0 +1,6 @@
+QQ0100
+8.	Zaletą funkcji aktywacji ReLU w porównaniu z funkcją ReLU jest
+	Ciągłość pochodnej w zerze
+	Niezerowy gradient dla ujemnych argumentów
+	Różniczkowalność w całej dziedzinie
+	Niezerowy gradient dla ujemnych argumentów i ciągłość pochodnej w zerze

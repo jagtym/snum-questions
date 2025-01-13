@@ -1,0 +1,6 @@
+QQ1000
+14.	Przykład adwersarzowy to przykład
+	skonstruowany w celu wywołania nieprawidłowej odpowiedzi modelu
+	skonstruowany w celu wywołania sprzeciwu modelu
+	szczególnie trudny do zaklasyfikowania
+	który może być tak przekształcony aby wywołać nieprawidłową odpowiedź modelu

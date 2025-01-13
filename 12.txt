@@ -1,0 +1,6 @@
+QQ0100
+12.	Edytowana wersją klasyfikatora k-NN
+	dostraja wartość k na zbiorze walidującym
+	polega na wyborze przykładów uczących do tzw. concept description
+	pozwala na selekcje atrybutów z wykorzystaniem podejścia wrapper
+	modyfikuję dynamicznie miarę odległości

@@ -1,0 +1,6 @@
+QQ0001
+16.	Tzw. „Cost-complexity approach” w indukcji drzew jest wykorzystywane do
+	Uczenia się oszczędnego z uwagi na zużycie czasu obliczeń
+	Wprowadzenie kosztów użycia poszczególnych atrybutów do korekcji miary entropii
+	Uwzględnienia funkcji kosztu pomyłek w obliczeniach warunków podziału w węzłach
+	Wykonania redukcji rozmiarów drzewa z sumą ważoną kryteriów minimalizacji błędu klasyfikacji oraz rozmiaru drzewa
