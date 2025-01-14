@@ -1,6 +1,6 @@
 QQ1010
 6.	Metoda analizy dyskryminacyjnej
 	opiera się na minimalizacji różnicy rzutów wartości średnich w klasach oraz minimalizacji odpowiednio przekształconej macierzy kowariancji
-	jest odmianą algortmy analizy skupisk
+	jest odmianą algorytmu analizy skupisk
 	w wersji zaproponowanej przez R. Fishera automatycznie tworzy liniową płaszczyznę separującą
 	maksymalizuje tzw. margines decyzyjny po to aby przybliżyć granicę decyzyjną

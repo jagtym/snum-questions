@@ -2,5 +2,5 @@ QQ1101
 54.	Zespół klasyfikatorów bagging (niech liczba składowych klasyfikatorów będzie T). Wybierz wszystkie poprawne:
 	jest oparty na losowym wyborze przykładów
 	agreguje predykcje klasyfikatorów składowych przez głosowanie
-	buduje się rozwiązanie metra-klasyfikatora
+	buduje się rozwiązanie meta-klasyfikatora
 	wykorzystuje losowanie bootstrapowe przykładów do T prób uczących
