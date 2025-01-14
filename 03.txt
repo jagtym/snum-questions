@@ -1,7 +1,7 @@
 QQ00010
 3.	Jakie przykłady uczące są zapamiętywane w algorytmie IBL2
-	posiadające wyskoą wartość tzw. rekordu klasyfikującego
+	posiadające wysoką wartość tzw. rekordu klasyfikującego
 	żadna z powyższych odpowiedzi nie jest prawdziwa
-	te, które są poprawni klasyfikowane
+	te, które są poprawnie klasyfikowane
 	te, dla których podczas przyrostowego uczenia się popełniane są błędy
 	wszystkie

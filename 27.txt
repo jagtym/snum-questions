@@ -1,7 +1,7 @@
 QQ01000
 27.	Reguła delta dla neuronu nieliniowego o wektorze parametrów w, funkcji aktywacji f, aktywacji z, który w odpowiedzi na wektor wejść x popełnił błąd delta, ma następującą postać
-	w<-weta delta x df/dz
-	w<-w-eta delta x df/dz
-	w<-w-eta delta x
-	w<-weta delta f(z) df/dz
-	w<-weta f(x) ddelta/dz
+	w <- w + eta delta x df/dz
+	w <- w - eta delta x df/dz
+	w <- w - eta delta x
+	w <- w + eta delta f(z) df/dz
+	w <- w - eta f(x) ddelta/dz
